@@ -1,5 +1,5 @@
 body {
-  background-color: Chartreuse;
+  background-color: lightseagreen;
   color: Purple;
 }
 img {
@@ -13,8 +13,4 @@ background-color: Aquamarine;
 }
 #Holly img {
   width: 300px;
-}
-
-#something {
- color: red; 
 }
