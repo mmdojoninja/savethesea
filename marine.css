@@ -1,0 +1,52 @@
+body {
+  background-color: LightSkyBlue;
+  font-family:"Helvetica", sans-serif;
+  color: DarkBlue;
+}
+
+h1 {
+  color: Blue;
+  font-family: "Times New Roman", serif;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
