@@ -1,7 +1,10 @@
-body {
-  background-color: Cornsilk;
-  color: Brown;
+#Plastic {
+  background-color: Aqua;
+  color: OrangeRed;
 }
-img {
+#Plastic img {
   width: 560px;
+}
+body {
+  font-family: "Arial", Times, serif;
 }
